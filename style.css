@@ -16,6 +16,7 @@ body{
     color: white;
     background-color: #121212;
     font-family: 'Figtree';
+    width: 100vw;
 
 }
 
@@ -494,7 +495,7 @@ line-height: 20px;
     position: absolute;
     background-color: #d9dadc;
     color: #121212;
-    font-size: 14px;
+        font-size: 14px;
     font-weight: 600;
     width: 250px;
     border-radius: 10px;
