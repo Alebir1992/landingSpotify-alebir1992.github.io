@@ -1,1 +1,1 @@
-https://landingSpotify-alebir1992.github.io/
+https://alebir1992.github.io/landingSpotify-alebir1992.github.io/
